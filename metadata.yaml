@@ -1,0 +1,24 @@
+_repo: Ket-mosoly_56417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Karinthy, Frigyes
+    alias: Karinthy, Friedrich
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '40760'
+    url: http://www.gutenberg.org/2009/agents/40760
+    wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
+description: ''
+gutenberg_issued: '2018-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56417'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Két mosoly
+url: http://www.gutenberg.org/ebooks/56417
